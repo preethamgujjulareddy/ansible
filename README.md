@@ -7,7 +7,7 @@
 [![Repository License](https://img.shields.io/badge/license-GPL%20v3.0-brightgreen.svg)](COPYING)
 [![Ansible CII Best Practices certification](https://bestpractices.coreinfrastructure.org/projects/2372/badge)](https://bestpractices.coreinfrastructure.org/projects/2372)
 
-# Ansible
+# Ansible!
 
 Ansible is a radically simple IT automation system. It handles
 configuration management, application deployment, cloud provisioning,
